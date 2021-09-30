@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preetpochat
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Web web-devlopment
+- 💞️ I’m looking to collaborate on web-devlopment & AI
 - 📫 How to reach me Email- preetpochat1@gmail.com
 
 <!---
